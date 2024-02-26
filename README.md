@@ -25,10 +25,4 @@ Step 5: Analyzing, and visualizing data
 
 Step 6: Reporting
 
-your data wrangling efforts
-your data analyses and visualization
 
-
-```python
-
-```
