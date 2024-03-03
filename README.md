@@ -14,6 +14,7 @@ Image via Boston Magazine
 
 ## Project Steps Overview
 The tasks for this project are as follows:
+
 Step 1: Gathering data
 
 Step 2: Assessing data
